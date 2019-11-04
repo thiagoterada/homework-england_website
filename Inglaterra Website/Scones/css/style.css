@@ -1,0 +1,30 @@
+﻿#menu h1{
+	margin-left: 6px;
+}
+	
+#cabeçalho{
+	margin-bottom: 15px;
+}
+
+#slide1{
+	background-color: red;
+	margin-left: 2 px;
+}
+
+#slide2{
+	margin-right: 2 px;
+	background-color: green;
+}
+
+#carrinho{
+	margin-right: 2 px;
+	background-color: yellow;
+}
+
+.nav-link a p{
+	color: white;
+}
+
+#card{
+	margin-top: 20px;
+}
